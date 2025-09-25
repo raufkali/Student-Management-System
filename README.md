@@ -3,14 +3,7 @@
 SmartDesk is a **role-based school management system** built with the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
 It provides **separate dashboards** for **Admin, Teachers, and Students** with authentication and role-based access.
 
----
 
-## 👥 Contributors / People
-
-- **Rauf Ahmad** – Project Owner, Developer  
-- (Add more names here if you have a team, e.g., classmates or collaborators)
-
----
 configure frontend:
 cd frontend
 npm install
